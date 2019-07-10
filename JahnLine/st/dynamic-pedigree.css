@@ -1,0 +1,9 @@
+﻿.gs-dps{min-width:10em}
+.gs-c-box{overflow:visible}
+.gs-c-gm,gs-c-gf{padding-right:14px}
+.gs-c-ctlb{border-radius:3px 0 0 3px}
+.gs-dpr{background:url("dynamic-pedigree-refocus.png") no-repeat;cursor:pointer;display:block;height:20px;position:absolute;right:-8px;top:calc(50% - 10px);width:20px}
+.gs-dpl{font-size:small;list-style-type:none;overflow:auto;position:absolute;text-align:left}
+.gs-dpl ul{margin-left:1em}
+.gs-dplt{font-weight:bold}
+.gs-dpl a,.gs-dpl a:link,.gs-dpl a:visited,.gs-dpl a:hover,.gs-dpl a:active{color:unset;text-decoration:none !important}
